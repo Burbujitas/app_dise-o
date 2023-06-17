@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\User\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\User\source\repos\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\User\source\repos\MyApp\MyApp\bin\Debug\CustomControls.dll
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\User\source\repos\MyApp\MyApp\obj\Debug\MyApp.Menu.resources
